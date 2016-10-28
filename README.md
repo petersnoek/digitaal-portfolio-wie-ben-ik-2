@@ -6,6 +6,7 @@ In de opdracht [wie ben ik](https://github.com/davinci-ao/wie-ben-ik) heb je een
 ###Functionele eisen
 Wie ben ik - deel 2 moet aan de volgende functionele eisen voldoen:
 * Jouw portfolio bevat een menu (dit mag een openklap-menu zijn of een menu dat niet openklapt);
+* Jouw portfolio bevat een index pagina (dit is de eerste pagina die een bezoeker ziet; je mag de inhoud van deze pagina zelf kiezen; de pagina geeft een samenvatting over jouw portfolio);
 * Jouw portfolio bevat een pagina "opleiding" over de opdrachten, vakken en projecten die je in je opleiding doet;
 * Jouw portfolio bevat een afdeling "over mij" met 
  * een bijgewerkt CV;
